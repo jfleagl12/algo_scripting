@@ -1,0 +1,1 @@
+JS scripting practice ranging from beginner to advanced levels.
